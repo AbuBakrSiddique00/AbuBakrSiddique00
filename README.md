@@ -4,11 +4,11 @@
   <tr>
     <td width="50%">
 <!--       <h3>📊 GitHub Stats</h3> -->
-      <img src="https://github-readme-stats.vercel.app/api?username=AbuBakrSiddique00&show_icons=true&theme=dark" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=AbuBakrSiddique00&show_icons=true&theme=ligth" width="100%"/>
     </td>
     <td width="50%">
 <!--       <h3>💡 Most Used Languages</h3> -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbuBakrSiddique00&layout=compact&theme=dark" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbuBakrSiddique00&layout=compact&theme=light" width="100%"/>
     </td>
   
 </table>
